@@ -1,5 +1,5 @@
 // Configuracion de API 
-const API_URL = 'https://appnodedeploy-ee314911a96d.herokuapp.com';
+const API_URL = ' https://appnodedeploydevops-6d9da6c1008c.herokuapp.com/';
 
 // Classe Usuario
 class User {
